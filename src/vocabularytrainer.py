@@ -87,3 +87,4 @@ else :
   print("result: " + str(erg) + "/" + str(len(result)) + " and " + str(upperlowercase) + " uppercase und lowercase mistakes")
 
 conn.close()
+input()
