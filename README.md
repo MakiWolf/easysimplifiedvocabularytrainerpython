@@ -6,3 +6,7 @@ If you want to try insert the vocabularies in that file. You can use every progr
 #### Features:
 uppercase and lowercase mistakes<br>
 save mistakes directly in db (no internet connection needed!)
+
+#### Contributing:
+
+We welcome contributions. This includes everything from simple bug reports to features. Please open a Issue first if you plan fundamental changes.
