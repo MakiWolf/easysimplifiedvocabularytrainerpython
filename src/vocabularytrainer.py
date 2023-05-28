@@ -29,7 +29,7 @@ def test(txt, r1, r2, mistake, vocabulary_id):
 conn = sqlite3.connect('vocabulary.db')
 c = conn.cursor()
 mistake = 10
-print("Please enter 1 (language1 - languege2) or 2 (language2 - languege1) ")
+print("Please enter 1 (language1 - language2) or 2 (language2 - language1) ")
 choice = input()
 print("Begin ID: ")
 beginid = int(input())
