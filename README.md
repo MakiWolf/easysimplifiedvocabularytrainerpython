@@ -1,6 +1,7 @@
 # easysimplifiedvocabularytrainerpython
 
 This is a vocabulary trainer written in python for command line. It uses sqlite as database.<br>
+Just copy the database file in the same directory as vocabulraytrainer.py is located.<br>
 NOTE this is an ongoing project. There will be improvements in future.
 
 #### Features:
