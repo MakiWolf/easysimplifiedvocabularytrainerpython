@@ -9,7 +9,8 @@ uppercase and lowercase mistakes<br>
 save mistakes directly in db (no internet connection needed!)
 
 #### Table Structure:
-If you want to try insert the vocabularies in db file. You can use every program you want.
+If you want to try insert the vocabularies in db file.<br>
+You can use every program you want. Or you can use [easysimplifiedvocabularyviewer in C# and windows forms](https://github.com/MakiWolf/easysimplifiedvocabularyviewer)
 <table>
   <tr><td>language1</td><td>language2</td><td>mistakes</td></tr>
 </table>
